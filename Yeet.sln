@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yeet", "Yeet.csproj", "{BF98DF5F-7747-7CE8-80E3-6F04572A4243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yeet.Editor", "Yeet.Editor.csproj", "{83CAC2CF-B1FD-74F0-6A65-CD8B4CE9C99D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF98DF5F-7747-7CE8-80E3-6F04572A4243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF98DF5F-7747-7CE8-80E3-6F04572A4243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF98DF5F-7747-7CE8-80E3-6F04572A4243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF98DF5F-7747-7CE8-80E3-6F04572A4243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CAC2CF-B1FD-74F0-6A65-CD8B4CE9C99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CAC2CF-B1FD-74F0-6A65-CD8B4CE9C99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CAC2CF-B1FD-74F0-6A65-CD8B4CE9C99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CAC2CF-B1FD-74F0-6A65-CD8B4CE9C99D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

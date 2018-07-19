@@ -1,0 +1,12 @@
+2018-02-09 21:36:37.2952 [DEBUG] Scene Fusion version 1.7.2-0
+2018-02-09 21:36:37.3062 [INFO] Setting define symbol SCENE_FUSION
+2018-02-09 21:36:41.2583 [DEBUG] Scene Fusion version 1.7.2-0
+2018-02-09 21:38:09.2413 [INFO] Launching Scene: Untitled
+2018-02-09 21:38:10.5329 [DEBUG] Connecting
+2018-02-09 21:38:10.5514 [DEBUG] Connecting to room (57546:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1025
+2018-02-09 21:39:26.8782 [DEBUG] Sent C:/Users/Evan.JUNKRAT/Desktop/Yeet/KSEditorLogs/SessionLogs/session.57546-636538090905740671.log
+2018-02-09 21:39:59.7597 [DEBUG] Connecting
+2018-02-09 21:39:59.7657 [DEBUG] Connecting to room (57547:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1025
+2018-02-09 21:40:03.2793 [DEBUG] Sent C:/Users/Evan.JUNKRAT/Desktop/Yeet/KSEditorLogs/SessionLogs/session.57547-636538091997682183.log
+2018-02-09 21:40:10.1402 [DEBUG] Connection attempt timed out. (57547:SceneFusion:SceneFusion)
+2018-02-09 21:40:10.1402 [DEBUG] Connection Failed. (57547:SceneFusion:SceneFusion)

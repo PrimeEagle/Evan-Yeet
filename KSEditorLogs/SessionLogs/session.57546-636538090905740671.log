@@ -1,0 +1,28 @@
+2018-02-09 21:38:10.7536 [DEBUG] Validating model...
+2018-02-09 21:38:10.8548 [DEBUG] Model validated
+2018-02-09 21:38:10.8553 [DEBUG] Authenticating with server...
+2018-02-09 21:38:11.1338 [DEBUG] Connected to room. (57546:SceneFusion:SceneFusion)
+2018-02-09 21:38:11.1368 [INFO] Connected to server.
+2018-02-09 21:38:11.1373 [DEBUG] OS : Microsoft Windows NT 10.0.16299.0
+2018-02-09 21:38:11.1373 [DEBUG] Unity Version : 2017.3.0f3
+2018-02-09 21:38:11.1373 [DEBUG] Pro License : False
+2018-02-09 21:38:11.1378 [DEBUG] Platform : WindowsEditor
+2018-02-09 21:38:11.1383 [DEBUG] Build Target : StandaloneWindows64
+2018-02-09 21:38:11.1383 [DEBUG] Scene Fusion version : 1.7.2
+2018-02-09 21:38:11.1383 [DEBUG] Scene Fusion client build : 0
+2018-02-09 21:38:11.1383 [DEBUG] User : BrickDaddyEvan@gmail.com
+2018-02-09 21:38:11.1383 [DEBUG] Waiting for server response
+2018-02-09 21:38:11.2461 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-02-09 21:38:11.2461 [DEBUG] User Permissions: FFFFFFFF
+2018-02-09 21:38:12.5129 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-02-09 21:38:12.5134 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-02-09 21:38:12.5134 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-02-09 21:38:12.5134 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-02-09 21:38:12.5134 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-02-09 21:38:12.5134 [DEBUG] No stand-in for UnityEngine.Experimental.Rendering.RenderPassAttachment
+2018-02-09 21:38:13.0693 [DEBUG] Uploading scene 'Untitled'
+2018-02-09 21:38:13.1148 [DEBUG] Spawn request. (Objects: 2)
+2018-02-09 21:38:13.2811 [DEBUG] Loading complete
+2018-02-09 21:39:26.7161 [DEBUG] Disconnecting from room (57546:SceneFusion:SceneFusion)
+2018-02-09 21:39:26.7196 [INFO] Disconnected from server.
+2018-02-09 21:39:26.7196 [DEBUG] Disconnect. (Duration: 75)
